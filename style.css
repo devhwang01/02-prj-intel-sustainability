@@ -161,7 +161,6 @@ header p {
   display: none;
 }
 
-/* Details: hidden by default; revealed on hover/focus */
 #timeline > article p {
   margin: 0;
   color: var(--muted);
